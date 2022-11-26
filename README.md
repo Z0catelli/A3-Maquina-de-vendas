@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center">
+# <div align="center">
 <i> Considerando um cenário de pandemia, a proposta foi desenvolver um sistema de máquina de vendas, que disponibilizará a compra de produtos destinados a prevenção da contaminação pelo Coronavírus, mas que também pode ser reutilizada para a venda de outros produtos. </i>
 </div>
 
